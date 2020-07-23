@@ -13,7 +13,7 @@ Jinja2==2.11.2
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+nltk==3.5
 numpy==1.18.5
 olefile==0.46
 Pillow @ file:///C:/ci/pillow_1594298230227/work
